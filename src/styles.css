@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+
+.bodyBackgroupImg{
+    background-image: url("https://img.freepik.com/free-photo/merry-christmas-red-background_1361-3542.jpg?w=740&t=st=1671096155~exp=1671096755~hmac=34ca29fa264aef63c1c4e5ba7d39dcfd54c92366c76f265c12d859fa2269c066");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.headers{
+    margin: 0px 239px;
+    color: yellow;
+    font-style: oblique;
+    font-weight: 100;
+}
+
+.tableHeader{
+    margin-top: 30px;
+    margin-left: 51px;
+    margin-right: 115px;
+    margin-bottom: 50px;
+    background-color: white;
+}
